@@ -63,7 +63,3 @@ Write your code in `arithmetic_arranger.py`. For development, you can use `main.
 ### Testing
 
 The unit tests for this project are in `test_module.py`. We are running the tests from `test_module.py` in `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button. Alternatively you may run the tests by inputting `pytest` in the console.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
