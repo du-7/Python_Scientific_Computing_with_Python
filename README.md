@@ -1,4 +1,5 @@
-# Python-PY4E
+# Python
+
 Scientific Computing with Python - Exercises
 
 Python for everybody is a free video course series that teaches the basics of using Python 3.
